@@ -1,0 +1,14 @@
+.image2 {
+    width: 200px;
+    height: 200px;
+}
+
+.bord {
+    border: 5px solid #0000cc;
+    padding: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    background-color: lightyellow;
+
+}
